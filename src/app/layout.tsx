@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "Catering 24 Jam Malang | Mimilcorner",
     description:
       "Catering Malang terpercaya. Nasi Kotak, Nasi Tumpeng, Snack Box, dan Jajanan Pasar. Melayani 24 jam di Landungsari, Kabupaten Malang.",
-    url: "https://mimilcorner.com",
+    url: "https://mimilcorner-v2.vercel.app",
     siteName: "Mimilcorner",
     locale: "id_ID",
     type: "website",
